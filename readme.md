@@ -70,3 +70,13 @@ Those command are targeting the **image_captioning** folder and the configuratio
 * Tests:
   * For testing we use `pytest` and target the tests in the **image_captioning** using `make test`
   * You can generate a coverage report using `make coverage` and a html version using `make coverage-html`
+
+
+## Git instructions
+
+``git init``
+``git remote add origin https://github.com/siwaar/Project-Template.git``
+``git branch -M main``
+``git add .``
+``git commit -m "first commit"``
+``git push -u origin main``
